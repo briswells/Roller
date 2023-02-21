@@ -3,6 +3,8 @@
 This repository provides a program that rolls a game die, such as the
 six-sided dice used in traditional dice game.
 
+[![C/C++ CI Compile](https://github.com/briswells/Roller/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/briswells/Roller/actions/workflows/c-cpp.yml)
+
 # Usage
 
 ## Getting Started
