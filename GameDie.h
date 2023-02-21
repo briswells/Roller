@@ -6,7 +6,7 @@
 
 using std::vector;
 
-class GameDie{
+class GameDie {
  public:
   GameDie();
   explicit GameDie(unsigned int);
